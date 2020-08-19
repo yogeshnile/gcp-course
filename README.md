@@ -1,1 +1,1 @@
-# gcp-course
+# GCP Course :notebook:
