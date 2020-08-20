@@ -1,4 +1,16 @@
 # GCP Course :notebook:
+## Table of Contents :boom:
+ - [Week 0](#week-0-welcome-to-the-course)
+ - [Week 1](#week-1-whats-the-cloud-anyway-start-with-a-solid-platform)
+ - [Week 2](#week-2-use-gcp-to-build-your-apps)
+ - [Week 3](#week-3-where-do-i-store-this-stuff)
+ - [Week 4](#week-4-theres-an-api-for-that-you-cant-secure-the-cloud-right)
+ - [Week 5](#week-5-it-helps-to-network)
+ - [Week 6](#week-6-it-helps-to-network-continued)
+ - [Week 7](#week-7-let-google-keep-an-eye-on-things-you-have-the-data-but-what-are-you-doing-with-it)
+ - [Let machines do the work](#let-machines-do-the-work)
+
+
 
 # Week 0: Welcome to the Course
  - Course Introduction [link](https://youtu.be/5PM9YVomp_U)
