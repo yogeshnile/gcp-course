@@ -9,6 +9,8 @@
  - [Week 6](#week-6-it-helps-to-network-continued)
  - [Week 7](#week-7-let-google-keep-an-eye-on-things-you-have-the-data-but-what-are-you-doing-with-it)
  - [Let machines do the work](#let-machines-do-the-work)
+ - [Contribution](#bug--feature-request-man_technologist)
+ - [Connect with Me!](#connect-with-me-)
 
 
 
